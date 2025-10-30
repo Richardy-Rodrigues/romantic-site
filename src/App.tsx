@@ -71,7 +71,7 @@ export default function App() {
         </div>
 
         <div className="mt-8 w-full max-w-2xl">
-          <video src={videoedit} autoPlay controls></video>
+          <video src={videoedit} controls></video>
         </div>
 
         <div className="text-white text-lg md:text-xl lg:text-2xl font-serif mt-8">
@@ -83,7 +83,7 @@ export default function App() {
           </span>
         </div>
         <div className="mt-8 w-full max-w-2xl">
-          <video src={videodamonelena} autoPlay controls></video>
+          <video src={videodamonelena} controls></video>
         </div>
       </div>
     </div>
